@@ -1,0 +1,38 @@
+.left{
+    background-color: red;
+    height: 100vh;
+    width: 10vw;
+}
+.right{
+    background-color: blue;
+    height: 100vh;
+    width: 90vw;
+}
+.right-top{
+    display: flex;
+    background-color: green;
+    height: 30vh;
+    width: 100vw;
+}
+.right-bottom{
+    background-color: yellow;
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    align-items: end;
+}       
+.right-bottom-bottom{
+    background-color: black;
+    width: 70vw;
+    height: 30vh;
+}
+.right-bottom-left{
+    background-color: pink;
+    width: 30vw;
+    height: 70vh;
+}
+.main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
